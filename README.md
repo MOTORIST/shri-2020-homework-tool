@@ -29,4 +29,4 @@
 ![](screenshots/coverage.png)
 
 - css 391 kb unused
-- js 1.3 mb
+- js 1.3 mb unused

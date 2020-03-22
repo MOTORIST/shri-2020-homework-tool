@@ -19,8 +19,10 @@
 
 ## Performance
 
-DOMContentLoaded Event 3268.6 ms
-Onload Event 6772.9 ms
+- First Paint - 1092 ms
+- First Meaningful Paint - 2454.4 ms
+- DOM Content Loaded - 4542.2 ms
+- Load - 23035.4 ms
 
 ## Coverage
 
